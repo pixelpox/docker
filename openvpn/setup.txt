@@ -1,0 +1,21 @@
+# OpenVPN Setup
+
+1. get nordvpn config from
+https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip
+
+2. find the best server at
+
+https://nordvpn.com/servers/
+
+3. set up a /vpn mount in docker
+
+4. change *.ovpn to vpn.config
+
+5. place vpn.config in the /vpn mount
+
+6. add auth.txt to the vpn.config 
+
+7. 
+	a) create auth.txt
+	b) on the first line place the username only
+	c) on the second line place the password only
