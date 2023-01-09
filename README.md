@@ -27,3 +27,4 @@ https://appuals.com/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-s
 ## install docker-compose
 
 https://docs.linuxserver.io/general/docker-compose
+https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo
